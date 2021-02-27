@@ -10,3 +10,5 @@ if ( ! function_exists( 'edumall_child_enqueue_scripts' ) ) {
 	}
 }
 add_action( 'wp_enqueue_scripts', 'edumall_child_enqueue_scripts', 15 );
+
+//diego new line
